@@ -36,4 +36,4 @@ Pull requests welcome! Please follow our [contribution guidelines](CONTRIBUTING.
 
 ## License
 
-MIT © [Nadifa]
+MIT © [Your Name]
